@@ -26,11 +26,9 @@
 
 ![Example screenshot1](./images/title.gif)
 
-![Example screenshot1](./images/gameplay1.png)
+![Example screenshot1](./images/gameplay1.gif)
 
-![Example screenshot1](./images/gameplay2.png)
-
-![Example screenshot1](./images/gameplay3.png)
+![Example screenshot1](./images/gameplay2.gif)
 
 
 
