@@ -4,10 +4,8 @@
 
 ## General Information
 
-- this is a simple game made in codeskulptor with Python3
-
-- What is the purpose of your project?
--The purpose of this android application is to let users keep track of their exercise while they are doing it. it also allows users to see the past exercise history so that they can keep track of their amount of exercise and stay motivated if they want to.
+- This is a simple game made in codeskulptor with Python3
+- "Fight bandits and escape through the CUSTOMS location, defeat the boss at the old Gas Station and call in the extract helicopter."
 
 ## Features
 - Reloading/magcheck system
@@ -26,7 +24,7 @@
 
 ## Screenshots
 
-![Example screenshot1](./images/title.png)
+![Example screenshot1](./images/title.gif)
 
 ![Example screenshot1](./images/gameplay1.png)
 
