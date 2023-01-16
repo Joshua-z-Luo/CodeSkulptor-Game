@@ -8,9 +8,9 @@
 - "Fight bandits and escape through the CUSTOMS location, defeat the boss at the old Gas Station and call in the extract helicopter."
 
 ## Features
+- original animations and art
 - Reloading/magcheck system
 - multiple enemy types, maps and a boss
-- original animations and art
 - simple story to match the campaign
 
 
